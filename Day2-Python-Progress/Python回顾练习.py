@@ -165,7 +165,3 @@ while count <= 10:
         print("严重肥胖")
         pass
     count += 1
-
-# {1111}
-
-
