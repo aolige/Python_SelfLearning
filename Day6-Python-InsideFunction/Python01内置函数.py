@@ -33,9 +33,11 @@ def liu():
 a,b,c,d=1,2,3,4,
 print('eval执行表达式的值为：{}'.format(eval('a+b+c+d')))
 
+
 def function1():
     print('hahahahahaha')
     pass
+
 
 eval('function1()')   # 可以调用函数执行
 
